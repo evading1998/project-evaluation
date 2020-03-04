@@ -3,20 +3,23 @@
 
 
 **Evaluating Person or Team**:
-Eva evading1998
+	Eva evading1998
 
 ---
 
 ## Project Data
 
 1. Project description: <br>
-LibreOffice is a successor to OpenOffice. It includes different applications, such as word processing, spreadsheets, presentations, etc. It is used by people all over the world to enhance productivity. 
+
+	LibreOffice is a successor to OpenOffice. It includes different applications, such as word processing, spreadsheets, presentations, etc. It is used by people all over the world to enhance productivity. 
 
 1. Project website/homepage:
-https://www.libreoffice.org/
+
+	https://www.libreoffice.org/
 
 1. Project repository:
-https://cgit.freedesktop.org/libreoffice
+
+	https://cgit.freedesktop.org/libreoffice
 
 
 ## License
